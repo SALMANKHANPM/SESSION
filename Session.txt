@@ -1,3 +1,1 @@
 Hi, This is a Session on Git.
-
-This is Powered-by Swecha AP
